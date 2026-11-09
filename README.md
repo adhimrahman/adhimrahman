@@ -7,14 +7,17 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adhimrahman&show_icons=true&theme=bear&hide_border=false)
+## 📊 GitHub Stats
+
+![GitHub Stats](./profile/stats.svg)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=adhimrahman&theme=bear&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adhimrahman&layout=compact&theme=bear&hide_border=false)
+![Top Languages](./profile/top-langs.svg)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adhimrahman&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+
+[![GitHub Trophies](https://github-profile-trophy-fork-two.vercel.app/?username=adhimrahman&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=adhimrahman&icon=0&color=0)](https://visitcount.itsvg.in)
